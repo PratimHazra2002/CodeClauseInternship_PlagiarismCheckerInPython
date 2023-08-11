@@ -1,0 +1,2 @@
+# CodeClauseInternship_PlagiarismCheckerInPython
+Python Programming Internship
